@@ -1,0 +1,770 @@
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\csc.exe
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\System.Collections.Immutable.dll
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\System.Reflection.Metadata.dll
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\vbc.exe
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\VBCSCompiler.exe
+E:\.net projects\clgproj\doct1\doct1\bin\roslyn\VBCSCompiler.exe.config
+E:\.net projects\clgproj\doct1\doct1\bin\doct1.dll.config
+E:\.net projects\clgproj\doct1\doct1\bin\doct1.dll
+E:\.net projects\clgproj\doct1\doct1\bin\doct1.pdb
+E:\.net projects\clgproj\doct1\doct1\bin\WebForms_Basic.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Antlr3.Runtime.dll
+E:\.net projects\clgproj\doct1\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\.net projects\clgproj\doct1\doct1\bin\AspNet.ScriptManager.jQuery.dll
+E:\.net projects\clgproj\doct1\doct1\bin\EntityFramework.dll
+E:\.net projects\clgproj\doct1\doct1\bin\EntityFramework.SqlServer.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Google.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Web.Infrastructure.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Newtonsoft.Json.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Owin.dll
+E:\.net projects\clgproj\doct1\doct1\bin\System.Web.Optimization.dll
+E:\.net projects\clgproj\doct1\doct1\bin\System.Web.Providers.dll
+E:\.net projects\clgproj\doct1\doct1\bin\WebGrease.dll
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.net projects\clgproj\doct1\doct1\bin\System.Web.Optimization.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Antlr3.Runtime.pdb
+E:\.net projects\clgproj\doct1\doct1\bin\Newtonsoft.Json.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\.net projects\clgproj\doct1\doct1\bin\EntityFramework.xml
+E:\.net projects\clgproj\doct1\doct1\bin\EntityFramework.SqlServer.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\.net projects\clgproj\doct1\doct1\bin\System.Web.Providers.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Google.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\.net projects\clgproj\doct1\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\.net projects\clgproj\doct1\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+E:\.net projects\clgproj\doct1\doct1\obj\Debug\doct1.Resources.resources
+E:\.net projects\clgproj\doct1\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+E:\.net projects\clgproj\doct1\doct1\obj\Debug\doct1.dll
+E:\.net projects\clgproj\doct1\doct1\obj\Debug\WebForms_Basic.xml
+E:\.net projects\clgproj\doct1\doct1\obj\Debug\doct1.pdb
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\csc.exe
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\vbc.exe
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\doct1.dll.config
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\doct1.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\doct1.pdb
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\WebForms_Basic.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Antlr3.Runtime.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\EntityFramework.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\EntityFramework.SqlServer.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Newtonsoft.Json.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Owin.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\System.Web.Optimization.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\System.Web.Providers.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\WebGrease.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\System.Web.Optimization.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Antlr3.Runtime.pdb
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Newtonsoft.Json.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\EntityFramework.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\EntityFramework.SqlServer.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\System.Web.Providers.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\obj\Debug\doct1.Resources.resources
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\obj\Debug\doct1.dll
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\obj\Debug\WebForms_Basic.xml
+C:\Users\Manu Kumar\Documents\Visual Studio 2015\Projects\doct2\doct1\obj\Debug\doct1.pdb
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\csc.exe
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\vbc.exe
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+D:\.net projects\clgproj\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+D:\.net projects\clgproj\doct2\doct1\bin\doct1.dll.config
+D:\.net projects\clgproj\doct2\doct1\bin\doct1.dll
+D:\.net projects\clgproj\doct2\doct1\bin\doct1.pdb
+D:\.net projects\clgproj\doct2\doct1\bin\WebForms_Basic.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Antlr3.Runtime.dll
+D:\.net projects\clgproj\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\.net projects\clgproj\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net projects\clgproj\doct2\doct1\bin\EntityFramework.dll
+D:\.net projects\clgproj\doct2\doct1\bin\EntityFramework.SqlServer.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Newtonsoft.Json.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Owin.dll
+D:\.net projects\clgproj\doct2\doct1\bin\System.Web.Optimization.dll
+D:\.net projects\clgproj\doct2\doct1\bin\System.Web.Providers.dll
+D:\.net projects\clgproj\doct2\doct1\bin\WebGrease.dll
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.net projects\clgproj\doct2\doct1\bin\System.Web.Optimization.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Antlr3.Runtime.pdb
+D:\.net projects\clgproj\doct2\doct1\bin\Newtonsoft.Json.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\.net projects\clgproj\doct2\doct1\bin\EntityFramework.xml
+D:\.net projects\clgproj\doct2\doct1\bin\EntityFramework.SqlServer.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\.net projects\clgproj\doct2\doct1\bin\System.Web.Providers.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\.net projects\clgproj\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\.net projects\clgproj\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+D:\.net projects\clgproj\doct2\doct1\obj\Debug\doct1.Resources.resources
+D:\.net projects\clgproj\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+D:\.net projects\clgproj\doct2\doct1\obj\Debug\doct1.dll
+D:\.net projects\clgproj\doct2\doct1\obj\Debug\WebForms_Basic.xml
+D:\.net projects\clgproj\doct2\doct1\obj\Debug\doct1.pdb
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\csc.exe
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\vbc.exe
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\doct1.dll.config
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\doct1.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\doct1.pdb
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\WebForms_Basic.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Antlr3.Runtime.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\EntityFramework.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\EntityFramework.SqlServer.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Newtonsoft.Json.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Owin.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\System.Web.Optimization.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\System.Web.Providers.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\WebGrease.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\System.Web.Optimization.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Antlr3.Runtime.pdb
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Newtonsoft.Json.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\EntityFramework.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\EntityFramework.SqlServer.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\System.Web.Providers.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+C:\Users\Manu Kumar\Desktop\doct2\doct1\obj\Debug\doct1.Resources.resources
+C:\Users\Manu Kumar\Desktop\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+C:\Users\Manu Kumar\Desktop\doct2\doct1\obj\Debug\doct1.dll
+C:\Users\Manu Kumar\Desktop\doct2\doct1\obj\Debug\WebForms_Basic.xml
+C:\Users\Manu Kumar\Desktop\doct2\doct1\obj\Debug\doct1.pdb
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\csc.exe
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\vbc.exe
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\doct1.dll.config
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\doct1.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\doct1.pdb
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\WebForms_Basic.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Antlr3.Runtime.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\EntityFramework.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\EntityFramework.SqlServer.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Newtonsoft.Json.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Owin.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\System.Web.Optimization.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\System.Web.Providers.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\WebGrease.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\System.Web.Optimization.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Antlr3.Runtime.pdb
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Newtonsoft.Json.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\EntityFramework.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\EntityFramework.SqlServer.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\System.Web.Providers.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\obj\Debug\doct1.Resources.resources
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\obj\Debug\doct1.dll
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\obj\Debug\WebForms_Basic.xml
+C:\Users\Manu Kumar\Desktop\New folder\doct2\doct1\obj\Debug\doct1.pdb
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\csc.exe
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\doct1.dll.config
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\doct1.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\doct1.pdb
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\WebForms_Basic.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\EntityFramework.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Owin.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\WebGrease.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\EntityFramework.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\System.Web.Providers.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\doct2\doct1\obj\Debug\doct1.Resources.resources
+C:\Users\user\Desktop\New folder\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\New folder\doct2\doct1\obj\Debug\doct1.dll
+C:\Users\user\Desktop\New folder\doct2\doct1\obj\Debug\WebForms_Basic.xml
+C:\Users\user\Desktop\New folder\doct2\doct1\obj\Debug\doct1.pdb
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\csc.exe
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\vbc.exe
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Antlr3.Runtime.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\EntityFramework.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\EntityFramework.SqlServer.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Newtonsoft.Json.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Owin.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\System.Web.Optimization.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\System.Web.Providers.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\WebGrease.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\System.Web.Optimization.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Antlr3.Runtime.pdb
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Newtonsoft.Json.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\EntityFramework.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\EntityFramework.SqlServer.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\System.Web.Providers.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+D:\.net projects\clgproj\New folder\doct2\doct1\obj\Debug\doct1.Resources.resources
+D:\.net projects\clgproj\New folder\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+D:\.net projects\clgproj\New folder\doct2\doct1\obj\Debug\doct1.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\obj\Debug\WebForms_Basic.xml
+D:\.net projects\clgproj\New folder\doct2\doct1\obj\Debug\doct1.pdb
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\doct1.dll.config
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\doct1.dll
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\doct1.pdb
+D:\.net projects\clgproj\New folder\doct2\doct1\bin\WebForms_Basic.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\csc.exe
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\vbc.exe
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\doct1.dll.config
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\doct1.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\doct1.pdb
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\WebForms_Basic.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Antlr3.Runtime.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\EntityFramework.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\EntityFramework.SqlServer.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Newtonsoft.Json.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Owin.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\System.Web.Optimization.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\System.Web.Providers.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\WebGrease.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\System.Web.Optimization.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Antlr3.Runtime.pdb
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Newtonsoft.Json.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\EntityFramework.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\EntityFramework.SqlServer.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\System.Web.Providers.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\obj\Debug\doct1.Resources.resources
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\obj\Debug\doct1.dll
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\obj\Debug\WebForms_Basic.xml
+C:\Users\Manu Kumar\Desktop\narinder\New_folder\doct2\doct1\obj\Debug\doct1.pdb
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\csc.exe
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\vbc.exe
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\doct1.dll.config
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\doct1.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\doct1.pdb
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\WebForms_Basic.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Antlr3.Runtime.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\EntityFramework.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\EntityFramework.SqlServer.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Newtonsoft.Json.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Owin.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\System.Web.Optimization.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\System.Web.Providers.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\WebGrease.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\System.Web.Optimization.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Antlr3.Runtime.pdb
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Newtonsoft.Json.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\EntityFramework.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\EntityFramework.SqlServer.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\System.Web.Providers.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\obj\Debug\doct1.Resources.resources
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\obj\Debug\doct1.dll
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\obj\Debug\WebForms_Basic.xml
+C:\Users\M.s Computers\Desktop\Project repprt\narinder\New_folder\doct2\doct1\obj\Debug\doct1.pdb
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\csc.exe
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\vbc.exe
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\VBCSCompiler.exe
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\doct1.dll.config
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\doct1.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\doct1.pdb
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\WebForms_Basic.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Antlr3.Runtime.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.SqlServer.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Newtonsoft.Json.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Owin.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Optimization.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Providers.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\WebGrease.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Optimization.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Antlr3.Runtime.pdb
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Newtonsoft.Json.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.SqlServer.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Providers.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.Resources.resources
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.dll
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\obj\Debug\WebForms_Basic.xml
+C:\Users\M.s Computers\Desktop\Project repprt\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.pdb
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\csc.exe
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\System.Collections.Immutable.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\System.Reflection.Metadata.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\vbc.exe
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\VBCSCompiler.exe
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\roslyn\VBCSCompiler.exe.config
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\doct1.dll.config
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\doct1.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\doct1.pdb
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\WebForms_Basic.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Antlr3.Runtime.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\AspNet.ScriptManager.jQuery.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.SqlServer.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Google.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Web.Infrastructure.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Newtonsoft.Json.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Owin.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Optimization.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Providers.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\WebGrease.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Optimization.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Antlr3.Runtime.pdb
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Newtonsoft.Json.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\EntityFramework.SqlServer.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\System.Web.Providers.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Google.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.vbprojResolveAssemblyReference.cache
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.Resources.resources
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.vbproj.GenerateResource.Cache
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.dll
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\obj\Debug\WebForms_Basic.xml
+E:\B.C.A\Sem 5th Project\Online Doctor Appointment System\Source Code\doct1\obj\Debug\doct1.pdb

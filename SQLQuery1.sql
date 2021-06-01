@@ -1,0 +1,1 @@
+﻿select * from regis_user1 where emailid='mannukumarshah@gmail.com' and password='asdf'
